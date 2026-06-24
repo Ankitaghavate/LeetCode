@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0001-two-sum) |
+| [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -40,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
