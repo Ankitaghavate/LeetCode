@@ -17,30 +17,29 @@ class Solution {
         }
         return nums;
     }
-
-    public void heapify(int arr[],int i,int n)
+    public void heapify(int nums[],int i,int n)
     {
         int minIdx=i;
         int left=2*i+1;
         int right=2*i+2;
 
-        if(left<n && arr[left]>arr[minIdx])
+        if(left<n && nums[minIdx]<nums[left])
         {
             minIdx=left;
         }
 
-        if(right<n && arr[right]>arr[minIdx])
+        if(right<n && nums[minIdx]<nums[right])
         {
             minIdx=right;
         }
 
         if(i!=minIdx)
         {
-            int temp=arr[i];
-            arr[i]=arr[minIdx];
-            arr[minIdx]=temp;
+            int temp=nums[i];
+            nums[i]=nums[minIdx];
+            nums[minIdx]=temp;
 
-            heapify(arr,minIdx,n);
+            heapify(nums,minIdx,n);
         }
     }
 
