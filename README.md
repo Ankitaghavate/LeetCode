@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0001-two-sum) |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
