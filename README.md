@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
