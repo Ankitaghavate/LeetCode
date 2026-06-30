@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0231-power-of-two) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0435-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
