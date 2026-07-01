@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
