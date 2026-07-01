@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0414-third-maximum-number) |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
