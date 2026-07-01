@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ankitaghavate/LeetCode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ankitaghavate/LeetCode/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
