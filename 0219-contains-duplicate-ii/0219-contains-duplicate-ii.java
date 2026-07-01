@@ -9,10 +9,10 @@ class Solution {
                 if(i-map.get(nums[i])<=k)
                 {
                     return true;
-                }
+                }  
             }
             map.put(nums[i],i);
-        } 
+        }
         return false;
     }
 }
