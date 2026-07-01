@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1695-maximum-erasure-value](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1695-maximum-erasure-value](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1695-maximum-erasure-value](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/1695-maximum-erasure-value) |
 ## Linked List
 |  |
 | ------- |
