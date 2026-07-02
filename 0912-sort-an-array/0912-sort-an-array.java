@@ -1,46 +1,60 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        int n=nums.length;
-
-        for(int i=n/2;i>=0;i--)
-        {
-            heapify(nums,i,n);
-        }
-
-        for(int i=n-1;i>=0;i--)
-        {
-            int temp=nums[0];
-            nums[0]=nums[i];
-            nums[i]=temp;
-
-            heapify(nums,0,i);
-        }
+        mergeSort(nums,0,nums.length-1);
         return nums;
     }
-    public void heapify(int nums[],int i,int n)
+
+    public void mergeSort(int nums[],int st,int end)
     {
-        int minIdx=i;
-        int left=2*i+1;
-        int right=2*i+2;
-
-        if(left<n && nums[minIdx]<nums[left])
+        while(st>=end)
         {
-            minIdx=left;
+            return;
         }
-
-        if(right<n && nums[minIdx]<nums[right])
-        {
-            minIdx=right;
-        }
-
-        if(i!=minIdx)
-        {
-            int temp=nums[i];
-            nums[i]=nums[minIdx];
-            nums[minIdx]=temp;
-
-            heapify(nums,minIdx,n);
-        }
+        int mid=st+(end-st)/2;
+        mergeSort(nums,st,mid);
+        mergeSort(nums,mid+1,end);
+        merge(nums,st,mid,end);
     }
 
+    public void merge(int nums[],int st,int mid,int end)
+    {
+        int p1=st;
+        int p2=mid+1;
+        int p3=0;
+        int temp[]=new int[end-st+1];
+
+        while(p1<=mid && p2<=end)
+        {
+            if(nums[p1]<nums[p2])
+            {
+                temp[p3]=nums[p1];
+                p1++;
+            }
+            else
+            {
+                temp[p3]=nums[p2];
+                p2++;
+            }
+            p3++;
+        }
+
+        while(p1<=mid)
+        {
+            temp[p3]=nums[p1];
+                p1++;
+                p3++;
+        }
+
+        while(p2<=end)
+        {
+            temp[p3]=nums[p2];
+            p2++;
+            p3++;
+        }
+
+        for(int x=0;x<temp.length;x++)
+        {
+            nums[x+st]=temp[x];
+        }
+    }
 }
