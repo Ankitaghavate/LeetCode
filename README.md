@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankitaghavate/LeetCode/tree/master/0027-remove-element) |
+| [0143-reorder-list](https://github.com/Ankitaghavate/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Ankitaghavate/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Ankitaghavate/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitaghavate/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankitaghavate/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ankitaghavate/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
