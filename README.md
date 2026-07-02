@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ankitaghavate/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Ankitaghavate/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitaghavate/LeetCode/tree/master/0217-contains-duplicate) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ankitaghavate/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ankitaghavate/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ankitaghavate/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ankitaghavate/LeetCode/tree/master/0049-group-anagrams) |
 ## Trie
