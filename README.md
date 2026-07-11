@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ankitaghavate/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Ankitaghavate/LeetCode/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankitaghavate/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitaghavate/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ankitaghavate/LeetCode/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/Ankitaghavate/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankitaghavate/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitaghavate/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Ankitaghavate/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankitaghavate/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
