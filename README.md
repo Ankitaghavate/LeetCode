@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ankitaghavate/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ankitaghavate/LeetCode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Ankitaghavate/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ankitaghavate/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankitaghavate/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitaghavate/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/Ankitaghavate/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/Ankitaghavate/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
