@@ -1,19 +1,20 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int mele=0;
+        int maxele=0;
         int count=0;
 
         for(int i=0;i<nums.length;i++)
         {
             if(count==0)
             {
-                mele=nums[i];
+                maxele=nums[i];
             }
-             if(nums[i]==mele)
+
+            if(nums[i]==maxele)
             {
                 count++;
             }
-            else 
+            else
             {
                 count--;
             }
@@ -23,17 +24,19 @@ class Solution {
 
         for(int i=0;i<nums.length;i++)
         {
-            if(mele==nums[i])
+            if(nums[i]==maxele)
             {
                 count++;
             }
         }
-        int n=nums.length;
 
-        if(count>n/2)
+        if(count>nums.length/2)
         {
-            return mele;
+            return maxele;
         }
-        return -1;
+        else
+        {
+            return -1;
+        }
     }
 }
