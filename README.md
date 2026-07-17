@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitaghavate/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitaghavate/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Ankitaghavate/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Ankitaghavate/LeetCode/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitaghavate/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ankitaghavate/LeetCode/tree/master/0217-contains-duplicate) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ankitaghavate/LeetCode/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ankitaghavate/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
