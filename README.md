@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ankitaghavate/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Ankitaghavate/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ankitaghavate/LeetCode/tree/master/0051-n-queens) |
+| [0136-single-number](https://github.com/Ankitaghavate/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankitaghavate/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitaghavate/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ankitaghavate/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ankitaghavate/https-github.com-Ankitaghavate-LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Ankitaghavate/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
