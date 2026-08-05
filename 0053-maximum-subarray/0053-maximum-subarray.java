@@ -9,10 +9,9 @@ class Solution {
             {
                 cs=0;
             }
-            
             cs+=nums[i];
             
-            maxSum=Math.max(maxSum,cs);
+            maxSum=Math.max(cs,maxSum);
         }
         return maxSum;
     }
