@@ -18,20 +18,18 @@ class Solution {
             temp=temp.next;
             size++;
         }
-
         if(n==size)
         {
             return head.next;
         }
-
         int pos=size-n-1;
         int i=0;
         ListNode prev=head;
 
         while(i<pos)
         {
-            prev=prev.next;
             i++;
+            prev=prev.next;
         }
         prev.next=prev.next.next;
         return head;
