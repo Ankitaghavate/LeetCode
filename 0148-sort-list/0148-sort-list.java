@@ -14,9 +14,9 @@ class Solution {
         {
             return head;
         }
-        ListNode midprev=getMid(head);
-        ListNode mid=midprev.next;
-        midprev.next=null;
+        ListNode midPrev=getMid(head);
+        ListNode mid=midPrev.next;
+        midPrev.next=null;
 
         ListNode left=sortList(head);
         ListNode right=sortList(mid);
